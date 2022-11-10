@@ -1,4 +1,5 @@
-// Incluímos la librería para poder controlar el servo
+// Código para posicionar el servo en los ángulos 0º, 90º y 180º.
+//Incluímos la librería para poder controlar el servo
 #include <Servo.h>
  
 // Declaramos la variable para controlar el servo
