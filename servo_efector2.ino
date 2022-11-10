@@ -1,4 +1,5 @@
-// Incluímos la librería para poder controlar el servo
+// El servo hara un barrido desde el 0 al 180º y luego en sentido contrario.
+//Incluímos la librería para poder controlar el servo
 #include <Servo.h>
  
 // Declaramos la variable para controlar el servo
