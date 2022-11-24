@@ -29,5 +29,5 @@ if (BT.available()){     // si hay informacion disponible desde modulo
       Serial.println("apagado");
    }
       
- 
+}
 }
